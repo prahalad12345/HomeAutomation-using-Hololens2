@@ -26,6 +26,7 @@ The HomeAutomation-Hololens is an application for Hololens2 which is built speci
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/k79nSncCGy8/0.jpg)](https://www.youtube.com/watch?v=k79nSncCGy8)
 [![IMAGE ALT TEXT HERE] (https://www.youtube.com/watch?v=U-ST1nyrA8U)](https://www.youtube.com/watch?v=U-ST1nyrA8U)
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=U-ST1nyrA8U)](https://www.youtube.com/watch?v=U-ST1nyrA8U)
 
 
 ## Data used by the home automation
