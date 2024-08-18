@@ -24,7 +24,7 @@ The HomeAutomation-Hololens is an application for Hololens2 which is built speci
 
 * User-Friendly Home Automation Interface: The HomeAutomation-App provides a streamlined and user-friendly interface to control home appliances, building on an existing home automation setup. The controls are designed for maximum convenience, allowing users to manage their environment with ease.Have added voice commands to easily access the menu , This feature is a part of MRTK3.
 
-[![Homeautomation Demo](https://www.youtube.com/watch?v=U-ST1nyrA8U)](https://www.youtube.com/watch?v=U-ST1nyrA8U)
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=U-ST1nyrA8U)](https://www.youtube.com/watch?v=U-ST1nyrA8U)
 
 
 ## Data used by the home automation
